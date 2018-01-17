@@ -1,0 +1,13 @@
+<view>
+  <swiper style='width:100%;height:500rpx'>
+    <swiper-item>
+      <image style='width=100%;height:500rpx' src='/images/xiaolong.jpg'></image>
+    </swiper-item>
+    <swiper-item>
+      <image style='width=100%;height:500rpx' src='/images/xiaolong.jpg'></image>
+    </swiper-item>
+    <swiper-item>
+      <image style='width=100%;height:500rpx' src='/images/xiaolong.jpg'></image>
+    </swiper-item>
+  </swiper>
+</view>
